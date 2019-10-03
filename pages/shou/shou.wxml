@@ -1,0 +1,49 @@
+<!--pages/shou/shou.wxml-->
+<view class="sd-Quan">
+    <view class="sd-BO">
+      <image src="../image/bei.jpg"></image>
+    </view>
+
+    <view class="sd-Xin">
+      <view class="sd-bu" style="font-size:20px;font-weight:bold;">石东</view>
+      <view class="sd-bu">
+          <view>手机</view>
+          <view>18567265243</view>
+          <view>
+             <button size="mini">拨打</button>
+          </view>
+      </view>
+      <view class="sd-bu">
+         <view>邮箱</view>
+          <view>2857023067@qq.com</view>
+          <view>
+             <button size="mini">复制</button>
+          </view>
+      </view>
+      <view class="sd-bu">
+         <view>职业</view>
+          <view>全栈开发</view>
+          <view>
+             <button size="mini">复制</button>
+          </view>
+      </view>
+    </view>
+
+    <view class="sd-sheng">
+          <view>
+              <image src="../image/img1.png"></image>
+              <text>生成海报</text>
+          </view>
+          <view>
+              <image src="../image/img2.png"></image>
+              <text>保存电话</text>
+          </view>
+          <view>
+              <image src="../image/img3.png"></image>
+              <text>分享好友</text>
+          </view>
+    </view>
+
+    <view class="sd-zhao"></view>
+
+</view>

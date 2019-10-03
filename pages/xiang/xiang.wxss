@@ -1,0 +1,17 @@
+/* pages/xiang/xiang.wxss */
+
+.sd-ling{
+  width: 100%;
+  height: auto;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.sd-tiao{
+  width: 100%;
+  height: 200px;
+  background: #dec777;
+  display: flex;
+  justify-content: center;
+  /* align-items: center; */
+}
